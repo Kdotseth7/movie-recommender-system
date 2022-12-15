@@ -1,2 +1,2 @@
 # movie-recommender-system
-movie-recommender-system
+Run mrs.ipynb
